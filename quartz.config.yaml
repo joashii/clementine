@@ -2,12 +2,12 @@
 configuration:
   pageTitle: Quartz 5
   pageTitleSuffix: ""
-  enableSPA: false
+  enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: joashii.github.io/juwashii-notes
+  baseUrl: github.com/joashii/juwashii-notes.git
   ignorePatterns:
     - private
     - templates
