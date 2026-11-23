@@ -1,5 +1,5 @@
 ---
-title: UX Elbi Membership Process: Applicant Deliberation Profiles
+title: "UX Elbi Membership Process: Applicant Deliberation Profiles"
 ---
 
 A profile for each of the 35 applicants, bringing together their grades, attendance, peer feedback, application answers and Values Conversation responses to support deliberation. Ranks are recomputed across all 35 applicants; where the evaluation sheet's rank differs, it is shown in parentheses. Grades are shown as their weighted share of the total percentage grade. Fields marked **NA** are not yet available.
